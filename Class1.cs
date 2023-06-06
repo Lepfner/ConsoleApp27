@@ -6,9 +6,9 @@ namespace ConsoleApp27
 {
     class Class1
     {
-        void metoda()
+void druga_metoda()
         {
-
+            Console.WriteLine("Hello");
         }
     }
 }
