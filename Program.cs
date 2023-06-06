@@ -8,6 +8,7 @@ namespace ConsoleApp27
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Prvi commit");
+            Console.WriteLine("Novo");
         }
     }
 }
