@@ -6,6 +6,9 @@ namespace ConsoleApp27
 {
     class Class1
     {
+        void metoda()
+        {
 
+        }
     }
 }
