@@ -7,7 +7,7 @@ namespace ConsoleApp27
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Prvi commit!");
+            Console.WriteLine("Prvi commit");
         }
     }
 }
